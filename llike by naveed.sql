@@ -1,0 +1,1 @@
+select * from employees1 where name like 'J%'
